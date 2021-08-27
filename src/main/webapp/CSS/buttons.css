@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+
+.btn{
+	width: 100px;
+	height: 50px;
+	
+	background-color: #5f8bf3;
+	color:white;
+	
+	font-weight: bold;
+	border:  dashed 4px silver;
+	border-radius: 80px;
+}
+
+.btn2{
+	background-color: #ecb3ff;
+	border : solid 3px black;
+	display: inline-block;
+	width: 80px;
+	height: 80px;
+	line-height: 80px;
+	text-align: center;
+	text-decoration: none;
+	color: white;
+	float: right;
+}
+.btn3{
+	background-color: #99e6ff;
+	width: 80px;
+	height: 80px;
+	border: #007399 solid 3px;
+	float: left;
+	
+}

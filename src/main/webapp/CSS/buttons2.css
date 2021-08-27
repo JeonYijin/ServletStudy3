@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+#title{
+	color:#ffbf00;
+	text-align: center;
+}
+.btn1{
+	
+	background-image: url("../images/z3.png");
+	
+	width: 220px;
+	height: 220px;
+	float: left;
+	border: solid 4px #66ffb3;
+	border-top-left-radius: 90px;
+	border-top-right-radius: 80px;
+	border-bottom-left-radius: 80px;
+	border-bottom-right-radius: 90px;
+	line-height: 220px;
+}
+.btn2{
+	background-image: url("../images/z1.png");
+	width:220px;
+	height: 220px;
+	border-radius :190px; 
+	display:inline-block;
+	margin-left: 15px;
+	border: solid 4px #66ffb3;
+}
+.btn3{
+	background-color: black;
+	width: 180px;
+	height: 120px;
+	clear: both;
+	margin-top: 50px;
+	color:#ffbf00;
+	font-size: 30px;
+	border: 10px #ffbf00 outset;
+}
