@@ -1,0 +1,73 @@
+@charset "UTF-8";
+#title{
+	background-color: RGB(0,85,164);
+	color: white;
+	font-style: italic;
+	text-align: center;
+	box-sizing: border-box;
+	padding: 15px;
+	display: inline-block;
+	margin-left: 50px;
+	margin-right: 350px;
+	margin-bottom: 20px;
+}
+#t1{
+	display: inline-block;
+	margin-right: 215px;
+}
+
+.c1{
+	border: 3px solid black;
+	
+	width: 80px;
+	height: 80px;
+	
+}
+.c1_1{
+	background-color: RGB(0,85,164);
+	width:80px;
+	height: 180px;
+}
+.c1_2{
+	background-color: white;
+	width:80px;
+	height: 180px;
+}
+.c1_3{
+	background-color: RGB(239,65,53);
+	width:80px;
+	height: 180px;
+}
+
+#india{
+	background-color: #FF9933;
+	color: white;
+	display:inline-block;
+	margin-right: 900px;
+	text-align: center;
+	box-sizing: border-box;
+	padding: 15px;
+	font-style: italic;
+	
+}
+#t2{
+	display: inline-block;
+	
+}
+
+.c2{
+	border: black 3px solid;
+	width: 270px;
+	height: 60px;
+}
+.c2_1{
+	background-color: #FF9933;
+}
+.c2_2{
+	background-color: white;
+	color:#000088;
+	text-align: center;
+}
+.c2_3{
+	background-color: #128807;
+}

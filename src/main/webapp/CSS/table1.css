@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+#title{
+	color: skyblue;
+	width:70%;
+	margin: 0 auto;
+	text-align: center;
+}
+.c{
+	border: #0099cc solid 2px;
+	border-spacing: 0px;
+	border-collapse: separate;
+	width:70%;
+	margin: 0 auto;
+	
+}
+.c1{
+	border: #80dfff solid 2px;
+}
